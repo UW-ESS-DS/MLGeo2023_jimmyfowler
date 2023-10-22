@@ -14,7 +14,7 @@
 `git clone https://github.com/UW-ESS-DS/MLGeo2023_jimmyfowler.git`
 
 #### Pushing changes with git
-[pushing chagnes from terminal](img/push_terminal.jpg)
+![pushing chagnes from terminal](img/push_terminal.jpg)
 
 ### Licensing
 I chose to use the MIT License for this repository, which you can find on the same level as this README file.
